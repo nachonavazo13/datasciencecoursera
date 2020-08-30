@@ -1,2 +1,0 @@
-# datasciencecoursera
-repositorio tarea final
